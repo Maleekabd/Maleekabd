@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Maleekabd
-- 👀 I’m interested in Java
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on java
+- 👋 Hi, I’m @MalikAbdurrasyid
+- 👀 I’m interested in Java & javaScript
+- 🌱 I’m currently learning java & javaScrpit
+- 💞️ I’m looking to collaborate on java & javascript
 - 📫 How to reach me you can follow my ig @malikarachuu_
 
 <!---
