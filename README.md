@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MalikAbdurrasyid
-- 👀 I’m interested in Java, javaScript, css, html & kotlin
-- 🌱 I’m currently learning Java, javaScript, css, html & kotlin
+- 👀 I’m interested in Java, javaScript, & kotlin
+- 🌱 I’m currently learning Java, javaScript & kotlin
 - 💞️ I’m looking to collaborate on java & javascript
 - 📫 How to reach me you can follow my ig @maliktrycatch_
 
