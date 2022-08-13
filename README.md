@@ -1,4 +1,4 @@
-# hello All!
+# Hello All!
 
 - 👋 Hi, I’m @MalikAbdurrasyid
 - 👀 I’m interested in Java, javaScript, & kotlin
@@ -6,7 +6,10 @@
 - 💞️ I’m looking to collaborate on java, javascript & kotlin
 - 📫 How to reach me you can follow my [Instagram](http://www.instagram.com/maliktrycatch_)
 
-<!---
-Maleekabd/Maleekabd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<p align="left">
+<a href="https://github.com/Maleekabd">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Maleekabd&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Maleekabd&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
