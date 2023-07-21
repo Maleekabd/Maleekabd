@@ -4,7 +4,7 @@
 - 👀 I’m interested in Java, javaScript, & kotlin
 - 🌱 I’m currently learning Java, javaScript & kotlin
 - 💞️ I’m looking to collaborate on java, javascript & kotlin
-- 📫 How to reach me you can follow my [Instagram](http://www.instagram.com/maliktrycatch_)
+- 📫 How to reach me you can follow my [Instagram](http://www.instagram.com/__malikabd)
 
 
 <p align="left">
