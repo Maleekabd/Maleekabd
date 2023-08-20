@@ -1,9 +1,8 @@
 # Hello All!
 
 - 👋 Hi, I’m @MalikAbdurrasyid
-- 👀 I’m interested in Java, javaScript, & kotlin
-- 🌱 I’m currently learning Java, javaScript & kotlin
-- 💞️ I’m looking to collaborate on java, javascript & kotlin
+- 👀 I’m interested in Javascript
+- 🌱 I’m currently learning javaScript
 - 📫 How to reach me you can follow my [Instagram](http://www.instagram.com/__malikabd)
 
 
