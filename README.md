@@ -1,8 +1,8 @@
 # Hello All!
 
 - 👋 Hi, I’m @MalikAbdurrasyid
-- 👀 I’m interested in Javascript
-- 🌱 I’m currently learning javaScript
+- 👀 I’m interested in Javascript and python
+- 🌱 I’m currently learning javaScript and python
 - 📫 How to reach me you can follow my [Instagram](http://www.instagram.com/__malikabd)
 
 
